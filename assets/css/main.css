@@ -1914,8 +1914,8 @@ input, select, textarea {
 
 		.icon.company.snorkel {
 		    background: url('../../images/snorkel.jpg');
-		    height: 20px;
-		    width: 20px;
+		    height: 200px;
+		    width: 200px;
 		    display: block;
 		    /* Other styles here */
 		}
