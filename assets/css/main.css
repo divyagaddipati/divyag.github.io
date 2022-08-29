@@ -124,6 +124,10 @@ input, select, textarea {
 		font-weight: 400;
 	}
 
+	em {
+		font-style: italic;
+	}
+	
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
 	}
